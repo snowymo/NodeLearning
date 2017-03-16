@@ -1,0 +1,408 @@
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642838343
+delta  26
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642838832
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642839338
+delta  5
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642839841
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642840343
+delta  4
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642840842
+delta  2
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642841350
+delta  5
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642841866
+delta  20
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642842356
+delta  6
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642842857
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642843362
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642843866
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642844370
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642844874
+delta  2
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642845378
+delta  2
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642845886
+delta  8
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642846386
+delta  4
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642846888
+delta  4
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642847391
+delta  5
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642847905
+delta  18
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642848393
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642848898
+delta  6
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642849404
+delta  7
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642849903
+delta  2
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642850408
+delta  2
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642850917
+delta  8
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642851420
+delta  7
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642851938
+delta  21
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642852434
+delta  15
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642852924
+delta  2
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642853426
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642853966
+delta  39
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642854434
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642854939
+delta  2
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642855445
+delta  5
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642855950
+delta  8
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642856453
+delta  5
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642856955
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642857462
+delta  6
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642857966
+delta  6
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642858466
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642858965
+delta  2
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642859471
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642859972
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642860474
+delta  2
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642860979
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642861517
+delta  37
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642861985
+delta  5
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642862484
+delta  5
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642862999
+delta  18
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642863487
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642863994
+delta  6
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642864494
+delta  2
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642865000
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642865506
+delta  5
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642866009
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642866512
+delta  2
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642867018
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642867526
+delta  6
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642868028
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642868532
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642869038
+delta  5
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642869539
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642870043
+delta  7
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642870543
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642871048
+delta  6
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642871550
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642872061
+delta  9
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642872557
+delta  2
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642873063
+delta  4
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642873568
+delta  7
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642874069
+delta  8
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642874775
+delta  210
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642875089
+delta  19
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642875688
+delta  117
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642876332
+delta  257
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642876667
+delta  88
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642877312
+delta  228
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642877590
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642878231
+delta  140
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642878696
+delta  105
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642879212
+delta  119
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642879664
+delta  67
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642880216
+delta  115
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642880643
+delta  39
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642881261
+delta  154
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642881739
+delta  127
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642882386
+delta  269
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642882703
+delta  83
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642883350
+delta  227
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642883714
+delta  88
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642884372
+delta  243
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642884694
+delta  62
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642885255
+delta  119
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642885643
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642886148
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642886662
+delta  13
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642887215
+delta  61
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642887671
+delta  12
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642888263
+delta  102
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642888667
+delta  3
+UDP message sent to 192.168.1.164:8888
+192.168.1.164:8888 - acknowledged
+after 1489642889222
+delta  54
