@@ -1,3 +1,5 @@
+// example of udp client in node, for arduino udp server
+
 var sleep = require('sleep');
 
 

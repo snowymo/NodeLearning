@@ -1,13 +1,15 @@
+// learning tcp
+
 var net = require('net');
 
 var server = net.createServer();  
 server.on('connection', handleConnection);
 
-var publisher = {
-  host: '192.168.1.44',
-  port: 80,
-  //exclusive: true
-}
+// var publisher = {
+//   host: '192.168.1.44',
+//   port: 80,
+//   //exclusive: true
+// }
 
  server.listen(5565, function() {  
    console.log('server listening to %j', server.address());

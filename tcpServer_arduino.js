@@ -1,3 +1,5 @@
+// example of tcp server
+
 var net = require('net');
 
 // Keep track of the chat clients
